@@ -14,7 +14,7 @@ For the Python version of the project, there is a bug when taking an item from t
 
 ## Technologies Used
 
-The project was developed using four main technologies: JavaScript, Java, Python, and TypeScript.
+The project was developed using four main technologies: [JavaScript](https://github.com/hei-school/my-wallet-Vohizy/tree/feature/javascript), [Java](https://github.com/hei-school/my-wallet-Vohizy/tree/feature/java), [Python](https://github.com/hei-school/my-wallet-Vohizy/tree/feature/python), and [TypeScript](https://github.com/hei-school/my-wallet-Vohizy/tree/feature/typeScript).
 
 ## License
 
