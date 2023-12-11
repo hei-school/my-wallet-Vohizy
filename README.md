@@ -20,6 +20,7 @@ To run the provided JavaScript code, you'll need to install the `prompt-sync` mo
 
 ```bash
 npm install prompt-sync
+```
 
 ## Bugs
 
